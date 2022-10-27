@@ -132,7 +132,7 @@ think the reason for this is the lots with huge spaces.
 
 **Modeling**
 
-![](./Images/models.jpg)
+![](./Images/models.JPG)
 
 In
 my first modeling attempt, I filled the Na (not available)
