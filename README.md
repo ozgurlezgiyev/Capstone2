@@ -111,7 +111,7 @@ think the reason for this is the lots with huge spaces.
 
 **Modeling**
 
-![](./Images/indir13.JPG)
+![](./Images/indir13.png)
 
 * First Data Cleaning Method contains dropping some rows and features that is not related to price and filling the Na values with the median value.
 * Second Data Cleaning Method contains dropping some rows and features but filling the Na values with the zero and expanding dataframe doubling with is_na columns and dummy variables.
