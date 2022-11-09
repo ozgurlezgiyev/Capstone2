@@ -154,3 +154,5 @@ increase the RMSE by 0.03.
 applications, the score of the model can be further
 increased and the RMSE value and margin of error
 can be reduced.
+
+* Try to figure out what the attribute "model.coef_" of your trained linear regression model says about which states are the most expensive or how much a square foot of living space costs on average across all states. The weights or slopes are contained in "coef_."
