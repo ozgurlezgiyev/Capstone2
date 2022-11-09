@@ -111,26 +111,13 @@ think the reason for this is the lots with huge spaces.
 
 **Modeling**
 
-![](./Images/models.JPG)
+![](./Images/indir13.JPG)
 
-In
-my first modeling attempt, I filled the Na (not available)
-data with median values, the data of the first model is seen in
-the table at the top left.
-Once
-Na values are filled with zero and the data frame is
-expanded with is_na columns, there is a big improvement in
-Root Mean Squared Error value and the best model for this
-problem seems like the Random Forest model.
+* First Data Cleaning Method contains dropping some rows and features that is not related to price and filling the Na values with the median value.
+* Second Data Cleaning Method contains dropping some rows and features but filling the Na values with the zero and expanding dataframe doubling with is_na columns and dummy variables.
+* Third Data Cleaning Method doesn't contain dropping some rows and features and fills the Na values with the zero and expanding dataframe doubling with is_na columns and dummy variables.
 
-When
-house prices estimated using the Random Forest regressor
-method, the result is as follows
-There is a slightly higher median value compared to the actual
-prices. However, the main difference is in the outliers, and some
-very extreme house prices were found to be much lower prices
-When the model is applied to all data prices predicted with an
-RMSE value of $43546 and R2 Score of 0.986
+
 
 ![](./Images/indir7.png)
 
