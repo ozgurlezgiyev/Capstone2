@@ -110,6 +110,7 @@ average lot price is higher than the median lot price, I
 think the reason for this is the lots with huge spaces.
 
 **Modeling**
+
 Parameters represent test scores unless otherwise stated.
 
 ![](./Images/indir13.png)
