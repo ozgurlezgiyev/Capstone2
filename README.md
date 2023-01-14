@@ -1,4 +1,4 @@
-# HOUSE PRICE PREDICTION SYSTEM
+# HOUSE PRICE PREDICTION MODEL
 ![cover_photo](./Images/image.jpg)
 
 ## PROBLEM
